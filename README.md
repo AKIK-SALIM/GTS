@@ -1,2 +1,2 @@
 # GTS
-This is my first reposiotory
+This is my first repository
